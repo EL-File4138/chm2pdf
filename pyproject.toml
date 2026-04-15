@@ -11,7 +11,7 @@ requires-python = ">=3.10"
 dependencies = [
   "beautifulsoup4>=4.12",
   "pylibmspack>=0.2.0",
-  "pypdf>=6.9.2",
+  "pypdf>=6.10.1",
 ]
 
 [project.scripts]
